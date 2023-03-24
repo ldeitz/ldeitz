@@ -1,4 +1,4 @@
-### Hello World! 👋
+### Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 Lauren here! I'm currently a healthcare data scientist ⚕️ at New York state's health information exchange. I've been a data practitioner for over 10 years, mostly in politics and grassroots organizing 🗳️. 
 
